@@ -6,10 +6,10 @@ Source: Kaggle
 Size: 10000 rows *14 col
 
 # Key Features:
-Student ID: Unique identifier
-CGPA: Academic performance score
-Placement Trainig: Yes/No
-Placement Status: Placed/Not Placed
+1. Student ID: Unique identifier
+2. CGPA: Academic performance score
+3. Placement Trainig: Yes/No
+4. Placement Status: Placed/Not Placed
 
 # Tableau Visualizations
 1. Placement Rate: Percentage of students placed vs. not placed
